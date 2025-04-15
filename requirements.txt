@@ -1,0 +1,12 @@
+numpy
+pandas
+opencv-python-headless
+dlib
+tensorflow
+torch
+torchvision
+streamlit
+kafka-python
+requests
+matplotlib
+scikit-learn
