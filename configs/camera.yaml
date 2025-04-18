@@ -1,0 +1,4 @@
+rtsp_url: "rtsp://username:password@192.168.1.100:554/stream1"
+target_fps: 5        # process 5 frames per second
+frame_width: 1280    # optional: resize for performance
+frame_height: 720
